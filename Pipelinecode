@@ -4,7 +4,7 @@ pipeline {
     environment {
         DIRECTORY_PATH = "C:/Users/Usama/OneDrive/Desktop/SIT753"
         TESTING_ENVIRONMENT = "pipeline-testing-environment"
-        PRODUCTION_ENVIRONMENT = "production-environment"  // Set appropriate value for production environment
+        PRODUCTION_ENVIRONMENT = "production-environment"  
     }
 
     stages { 
